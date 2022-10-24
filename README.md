@@ -1,2 +1,2 @@
 # oop-put-course
-Numer Indeksu: 151747
+student id = 151747
