@@ -1,0 +1,33 @@
+ -------------------------------
+8 | r | n | b | q | k | b | n | r |
+7 | p | p | p | p | p | p | p | p | 
+6 |
+5 |
+4 |
+3 |
+2 | P | P | P | P | P | P | P | P |
+1 | R | N | B | Q | K | B | N | R |
+ /--a-|-b-|-c---d---e---f---g---h-/
+
+ --- ----
+
+
+main/include/CliChess/Bishop.hpp
+main/include/CliChess/Board.hpp
+main/include/CliChess/King.hpp
+main/include/CliChess/Knight.hpp
+main/include/CliChess/Pawn.hpp
+main/include/CliChess/Piece.hpp
+main/include/CliChess/Pieces.hpp
+main/include/CliChess/Queen.hpp
+main/include/CliChess/Rook.hpp
+
+
+main/src/CliChess/Bishop.cpp
+main/src/CliChess/Board.cpp
+main/src/CliChess/King.cpp
+main/src/CliChess/Knight.cpp
+main/src/CliChess/Pawn.cpp
+main/src/CliChess/Piece.cpp
+main/src/CliChess/Queen.cpp
+main/src/CliChess/Rook.cpp
